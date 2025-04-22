@@ -1,0 +1,41 @@
+product_id,product_name,category,subcategory,brand,supplier,cost,price,tags,created_at,is_active
+P001,Malibu Classic Surfboard,Surfboards,Longboard,OceanRider,Surf Supply Co.,219.99,499.99,"beginner,longboard,classic",2021-01-15,TRUE
+P002,Pro Performance Shortboard,Surfboards,Shortboard,WaveMaster,Pacific Gear,249.99,579.99,"advanced,performance,shortboard",2021-01-15,TRUE
+P003,Beginner Foam Surfboard,Surfboards,Foam,SurfEasy,Surf Supply Co.,89.99,199.99,"beginner,foam,learning",2021-01-20,TRUE
+P004,Premium Fish Surfboard,Surfboards,Fish,OceanRider,Surf Supply Co.,189.99,429.99,"intermediate,fish,versatile",2021-02-05,TRUE
+P005,Kid's First Surfboard,Surfboards,Kids,SurfEasy,Surf Supply Co.,69.99,149.99,"kids,beginner,learning",2021-02-10,TRUE
+P006,Full-Length Wetsuit 3/2mm,Wetsuits,Full,WaveMaster,Pacific Gear,110.99,249.99,"full-body,3/2mm,spring",2021-01-25,TRUE
+P007,Premium Wetsuit 4/3mm,Wetsuits,Full,DeepBlue,Ocean Outfitters,159.99,329.99,"full-body,4/3mm,winter",2021-01-25,TRUE
+P008,Summer Shorty Wetsuit,Wetsuits,Shorty,WaveMaster,Pacific Gear,79.99,179.99,"shorty,summer,lightweight",2021-02-15,TRUE
+P009,Women's Performance Wetsuit,Wetsuits,Women,DeepBlue,Ocean Outfitters,139.99,299.99,"women,performance,flexible",2021-02-20,TRUE
+P010,Kid's Basic Wetsuit,Wetsuits,Kids,AquaJunior,Ocean Outfitters,59.99,129.99,"kids,basic,learning",2021-02-25,TRUE
+P011,Standard Surf Leash 7ft,Accessories,Leashes,SafetyFirst,Surf Accessories Inc.,12.99,29.99,"leash,safety,standard",2021-01-10,TRUE
+P012,Premium Surf Leash 9ft,Accessories,Leashes,SafetyFirst,Surf Accessories Inc.,16.99,39.99,"leash,premium,longboard",2021-01-10,TRUE
+P013,Surf Wax Combo Pack,Accessories,Wax,StickySoles,Surf Accessories Inc.,7.99,19.99,"wax,combo,essentials",2021-01-05,TRUE
+P014,Surfboard Roof Rack,Accessories,Transport,CargoMaster,Adventure Gear Ltd.,69.99,149.99,"transport,roof,travel",2021-03-10,TRUE
+P015,Basic Surf Fins (Set of 3),Accessories,Fins,WaveMaster,Pacific Gear,29.99,69.99,"fins,basics,thruster",2021-01-15,TRUE
+P016,Performance Quad Fins,Accessories,Fins,WaveMaster,Pacific Gear,49.99,99.99,"fins,performance,quad",2021-01-15,TRUE
+P017,Beginner Stand-Up Paddleboard,Paddleboards,Recreational,FlowRider,Adventure Gear Ltd.,299.99,649.99,"paddleboard,beginner,stable",2021-03-20,TRUE
+P018,Touring Paddleboard,Paddleboards,Touring,FlowRider,Adventure Gear Ltd.,399.99,879.99,"paddleboard,touring,advanced",2021-03-20,TRUE
+P019,Inflatable Paddleboard Kit,Paddleboards,Inflatable,PortaPaddle,Adventure Gear Ltd.,259.99,549.99,"paddleboard,inflatable,portable",2021-04-05,TRUE
+P020,Racing Paddleboard,Paddleboards,Racing,SpeedMaster,Performance Sports Inc.,499.99,1099.99,"paddleboard,racing,performance",2021-04-10,TRUE
+P021,Paddleboard Paddle - Aluminum,Accessories,Paddles,FlowRider,Adventure Gear Ltd.,39.99,89.99,"paddle,basic,adjustable",2021-03-25,TRUE
+P022,Carbon Fiber Paddle - Premium,Accessories,Paddles,SpeedMaster,Performance Sports Inc.,119.99,249.99,"paddle,carbon,lightweight",2021-03-25,TRUE
+P023,Beach Sun Shelter,Beachwear,Protection,BeachLife,Coastal Lifestyle Co.,49.99,99.99,"shelter,sun,beach",2021-05-01,TRUE
+P024,Water Sports Rash Guard,Beachwear,Shirts,GuardPro,Pacific Gear,24.99,59.99,"rashguard,protection,uv",2021-02-20,TRUE
+P025,Board Repair Kit,Accessories,Maintenance,FixItPro,Surf Accessories Inc.,19.99,44.99,"repair,maintenance,emergency",2021-01-20,TRUE
+P026,Surf Training Balance Board,Training,Balance,TrainRight,Performance Sports Inc.,79.99,169.99,"training,balance,practice",2021-06-10,TRUE
+P027,Waterproof Action Camera,Electronics,Cameras,AquaShot,Tech Marine Inc.,149.99,299.99,"camera,waterproof,action",2021-06-15,TRUE
+P028,Surfboard Bag,Accessories,Bags,BoardGuard,Surf Accessories Inc.,39.99,89.99,"bag,protection,travel",2021-03-15,TRUE
+P029,Neoprene Surf Booties,Accessories,Footwear,WaveMaster,Pacific Gear,29.99,59.99,"booties,neoprene,protection",2021-02-10,TRUE
+P030,Surf Ear Plugs,Accessories,Protection,EarShield,Surf Accessories Inc.,9.99,24.99,"ears,protection,water",2021-01-25,TRUE
+P031,Bodyboard 40",Bodyboards,Standard,WaveRider,Pacific Gear,49.99,109.99,"bodyboard,standard,recreation",2021-07-01,TRUE
+P032,Premium Bodyboard Leash,Accessories,Leashes,SafetyFirst,Surf Accessories Inc.,14.99,34.99,"leash,bodyboard,safety",2021-07-01,TRUE
+P033,Women's Board Shorts,Beachwear,Shorts,BeachLife,Coastal Lifestyle Co.,29.99,69.99,"shorts,women,quick-dry",2021-05-10,TRUE
+P034,Men's Board Shorts,Beachwear,Shorts,BeachLife,Coastal Lifestyle Co.,29.99,69.99,"shorts,men,quick-dry",2021-05-10,TRUE
+P035,Waterproof Phone Case,Accessories,Protection,AquaShield,Tech Marine Inc.,14.99,34.99,"phone,waterproof,protection",2021-06-01,TRUE
+P036,Water Shoes,Beachwear,Footwear,AquaStep,Coastal Lifestyle Co.,19.99,44.99,"shoes,water,protection",2021-05-15,TRUE
+P037,Beach Towel - Extra Large,Beachwear,Towels,BeachLife,Coastal Lifestyle Co.,19.99,39.99,"towel,beach,large",2021-05-05,TRUE
+P038,Surfboard Wall Rack,Home,Storage,BoardHome,Surf Accessories Inc.,29.99,69.99,"storage,display,home",2021-08-01,TRUE
+P039,Waterproof Bluetooth Speaker,Electronics,Audio,SoundWave,Tech Marine Inc.,69.99,129.99,"speaker,waterproof,bluetooth",2021-06-20,TRUE
+P040,Surf Changing Poncho,Beachwear,Changing,ChangeEasy,Coastal Lifestyle Co.,34.99,74.99,"changing,poncho,privacy",2021-05-20,TRUE 

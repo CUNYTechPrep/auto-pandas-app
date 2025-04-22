@@ -1,0 +1,4 @@
+warehouse_id,warehouse_name,address,city,state,zip,country,phone,manager_name,capacity_sqft,storage_type,shipping_zone,is_active
+W001,Pacific Coast Distribution Center,"1234 Harbor Dr","San Diego",CA,92101,USA,555-123-4567,"Michael Roberts",25000,climate_controlled,west,TRUE
+W002,SoCal Hub,"5678 Coastal Hwy","Los Angeles",CA,90292,USA,555-234-5678,"Jennifer Lopez",18000,standard,west,TRUE
+W003,East Coast Fulfillment,"9012 Atlantic Ave","Miami",FL,33139,USA,555-345-6789,"Robert Chen",20000,climate_controlled,east,TRUE 

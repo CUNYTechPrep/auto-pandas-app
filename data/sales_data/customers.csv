@@ -1,0 +1,51 @@
+customer_id,first_name,last_name,email,phone,address,city,state,zip,country,customer_since,loyalty_tier,birthdate,gender
+C001,John,Smith,john.smith@example.com,555-123-4567,"123 Ocean Ave","San Diego",CA,92101,USA,2021-01-20,Silver,1985-06-15,M
+C002,Emma,Johnson,emma.j@example.com,555-234-5678,"456 Beach Dr","Santa Cruz",CA,95060,USA,2021-01-25,Gold,1990-03-22,F
+C003,Michael,Williams,mwilliams@example.com,555-345-6789,"789 Surf St","Huntington Beach",CA,92648,USA,2021-02-01,Bronze,1978-11-10,M
+C004,Olivia,Brown,olivia.b@example.com,555-456-7890,"321 Wave Ct","Malibu",CA,90265,USA,2021-02-05,Silver,1992-07-30,F
+C005,James,Jones,jamesjones@example.com,555-567-8901,"555 Shoreline Rd","Newport Beach",CA,92663,USA,2021-02-10,Platinum,1980-02-14,M
+C006,Sophia,Garcia,sophia.g@example.com,555-678-9012,"987 Coastal Hwy","Oceanside",CA,92054,USA,2021-02-15,Bronze,1995-09-18,F
+C007,Robert,Miller,robert.m@example.com,555-789-0123,"654 Tide Ave","Santa Monica",CA,90401,USA,2021-02-20,Gold,1975-04-25,M
+C008,Ava,Davis,ava.davis@example.com,555-890-1234,"432 Reef St","Ventura",CA,93001,USA,2021-02-25,Silver,1988-12-03,F
+C009,David,Rodriguez,david.r@example.com,555-901-2345,"210 Board Walk","Long Beach",CA,90802,USA,2021-03-01,Bronze,1982-08-07,M
+C010,Isabella,Martinez,isabella.m@example.com,555-012-3456,"876 Sandy Ln","Carlsbad",CA,92008,USA,2021-03-05,Gold,1993-01-29,F
+C011,Thomas,Moore,thomas.m@example.com,555-246-8101,"145 Paddle Dr","Miami Beach",FL,33139,USA,2021-03-10,Silver,1979-05-11,M
+C012,Mia,Taylor,mia.t@example.com,555-357-9202,"367 Gulf St","Clearwater",FL,33767,USA,2021-03-15,Bronze,1991-10-05,F
+C013,Christopher,Anderson,chris.a@example.com,555-468-0303,"589 Atlantic Ave","Jacksonville Beach",FL,32250,USA,2021-03-20,Gold,1984-07-22,M
+C014,Charlotte,Thomas,charlotte.t@example.com,555-579-1404,"723 Seaside Dr","Key West",FL,33040,USA,2021-03-25,Platinum,1987-02-15,F
+C015,Matthew,Jackson,matt.j@example.com,555-680-2505,"944 Coral Reef Rd","Fort Lauderdale",FL,33316,USA,2021-04-01,Silver,1976-11-28,M
+C016,Amelia,White,amelia.w@example.com,555-791-3606,"258 Marina Blvd","Honolulu",HI,96815,USA,2021-04-05,Bronze,1989-04-19,F
+C017,Daniel,Harris,daniel.h@example.com,555-802-4707,"476 Tropical Way","Lahaina",HI,96761,USA,2021-04-10,Gold,1981-09-08,M
+C018,Harper,Martin,harper.m@example.com,555-913-5808,"890 Aloha St","Kailua",HI,96734,USA,2021-04-15,Silver,1994-03-31,F
+C019,Andrew,Thompson,andrew.t@example.com,555-024-6909,"112 Paradise Ln","Hilo",HI,96720,USA,2021-04-20,Bronze,1977-06-17,M
+C020,Evelyn,Garcia,evelyn.g@example.com,555-135-7000,"334 Sunset Dr","San Juan",PR,00901,USA,2021-04-25,Gold,1990-12-25,F
+C021,Joshua,Robinson,joshua.r@example.com,555-246-8111,"556 Coastline Ave","Santa Barbara",CA,93101,USA,2021-05-01,Silver,1983-07-13,M
+C022,Abigail,Clark,abigail.c@example.com,555-357-9222,"778 Beachfront Dr","Virginia Beach",VA,23451,USA,2021-05-05,Platinum,1986-02-09,F
+C023,Ryan,Rodriguez,ryan.r@example.com,555-468-0333,"990 Surfers Rd","Ocean City",MD,21842,USA,2021-05-10,Bronze,1978-10-30,M
+C024,Elizabeth,Lewis,elizabeth.l@example.com,555-579-1444,"123 Wavecrest St","Nags Head",NC,27959,USA,2021-05-15,Gold,1992-05-24,F
+C025,Jacob,Lee,jacob.l@example.com,555-680-2555,"345 Dolphin Ave","Charleston",SC,29401,USA,2021-05-20,Silver,1980-01-03,M
+C026,Sofia,Walker,sofia.w@example.com,555-791-3666,"567 Boardwalk","Atlantic City",NJ,08401,USA,2021-05-25,Bronze,1995-08-16,F
+C027,Nicholas,Hall,nicholas.h@example.com,555-802-4777,"789 Seashell Ln","Cape May",NJ,08204,USA,2021-06-01,Gold,1975-03-05,M
+C028,Avery,Allen,avery.a@example.com,555-913-5888,"234 Bay St","Corpus Christi",TX,78401,USA,2021-06-05,Silver,1988-11-21,F
+C029,Joseph,Young,joseph.y@example.com,555-024-6999,"456 Gulf Blvd","Galveston",TX,77550,USA,2021-06-10,Bronze,1982-06-28,M
+C030,Scarlett,Hernandez,scarlett.h@example.com,555-135-7110,"678 Island Dr","South Padre Island",TX,78597,USA,2021-06-15,Platinum,1993-01-14,F
+C031,Samuel,King,samuel.k@example.com,555-246-8222,"890 Tidal Way","Los Angeles",CA,90292,USA,2021-06-20,Gold,1979-04-08,M
+C032,Victoria,Wright,victoria.w@example.com,555-357-9333,"135 Shorefront Rd","Seattle",WA,98101,USA,2021-06-25,Silver,1991-09-17,F
+C033,Benjamin,Lopez,benjamin.l@example.com,555-468-0444,"246 Coastal Hwy","Portland",OR,97201,USA,2021-07-01,Bronze,1984-06-02,M
+C034,Camila,Hill,camila.h@example.com,555-579-1555,"357 Surfside Ave","San Francisco",CA,94133,USA,2021-07-05,Gold,1987-01-20,F
+C035,Alexander,Scott,alexander.s@example.com,555-680-2666,"468 Pacific Dr","Santa Barbara",CA,93101,USA,2021-07-10,Silver,1976-10-15,M
+C036,Madison,Green,madison.g@example.com,555-791-3777,"579 Beachview Ln","Montauk",NY,11954,USA,2021-07-15,Bronze,1989-03-28,F
+C037,Henry,Adams,henry.a@example.com,555-802-4888,"680 Oceanfront St","Hampton Beach",NH,03842,USA,2021-07-20,Gold,1981-08-11,M
+C038,Layla,Baker,layla.b@example.com,555-913-5999,"791 Sail Ave","Bar Harbor",ME,04609,USA,2021-07-25,Platinum,1994-02-06,F
+C039,Christopher,Gonzalez,chris.g@example.com,555-024-6000,"802 Marina Way","San Clemente",CA,92672,USA,2021-08-01,Silver,1977-05-19,M
+C040,Zoe,Nelson,zoe.n@example.com,555-135-7221,"913 Sandy Shore Dr","Dana Point",CA,92629,USA,2021-08-05,Bronze,1990-12-08,F
+C041,Sebastian,Carter,sebastian.c@example.com,555-246-8333,"246 Wave Crest Rd","Half Moon Bay",CA,94019,USA,2021-08-10,Gold,1983-07-01,M
+C042,Penelope,Mitchell,penelope.m@example.com,555-357-9444,"357 Breakers Ave","Encinitas",CA,92024,USA,2021-08-15,Silver,1986-01-25,F
+C043,William,Perez,william.p@example.com,555-468-0555,"468 Sunset Beach Rd","Pacifica",CA,94044,USA,2021-08-20,Bronze,1978-09-14,M
+C044,Aria,Roberts,aria.r@example.com,555-579-1666,"579 Coral Cove Dr","Laguna Beach",CA,92651,USA,2021-08-25,Gold,1992-04-30,F
+C045,Julian,Turner,julian.t@example.com,555-680-2777,"680 Shell Ln","Imperial Beach",CA,91932,USA,2021-09-01,Silver,1980-12-18,M
+C046,Riley,Phillips,riley.p@example.com,555-791-3888,"791 Waterfront Way","Pismo Beach",CA,93449,USA,2021-09-05,Bronze,1995-07-04,F
+C047,Leo,Campbell,leo.c@example.com,555-802-4999,"802 Crystal Bay Dr","Monterey",CA,93940,USA,2021-09-10,Platinum,1975-02-23,M
+C048,Lily,Parker,lily.p@example.com,555-913-5000,"913 Ocean View Rd","Carmel",CA,93923,USA,2021-09-15,Gold,1988-10-09,F
+C049,Jack,Evans,jack.e@example.com,555-024-6111,"024 Stingray Ave","Santa Monica",CA,90401,USA,2021-09-20,Silver,1982-05-31,M
+C050,Nora,Edwards,nora.e@example.com,555-135-7332,"135 Surfrider Ln","Venice",CA,90291,USA,2021-09-25,Bronze,1993-01-03,F 

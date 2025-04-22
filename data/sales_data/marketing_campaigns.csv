@@ -1,0 +1,28 @@
+campaign_id,campaign_name,start_date,end_date,budget,platform,target_audience,discount_code,discount_amount,discount_type,min_purchase,product_category,clicks,impressions,conversions,revenue,ROI
+MC001,New Year Sale,2022-01-01,2022-01-15,5000.00,Email,all_customers,NEWYEAR10,10.00,percent,50.00,all,4230,25650,215,12450.00,149.00
+MC002,Winter Collection,2022-01-20,2022-02-05,3500.00,Social_Media,previous_buyers,WINTER21,10.00,percent,75.00,Wetsuits,3120,18750,145,8700.00,148.57
+MC003,February Flash Sale,2022-02-10,2022-02-15,2000.00,Email,inactive_customers,FEBSALE,10.00,percent,0.00,Accessories,2875,15400,98,4900.00,145.00
+MC004,End of February Deals,2022-02-20,2022-02-28,1500.00,Social_Media,all_customers,FEBEND,10.00,percent,0.00,Beachwear,2140,12500,75,3750.00,150.00
+MC005,Spring Collection Launch,2022-03-01,2022-03-15,4500.00,Email,all_customers,SPRING10,10.00,percent,50.00,all,3985,21750,185,11100.00,146.67
+MC006,March Madness,2022-03-10,2022-03-20,2500.00,Social_Media,previous_buyers,MARCHSALE,10.00,percent,0.00,Surfboards,2650,16400,110,7700.00,208.00
+MC007,Spring Break Special,2022-03-22,2022-03-31,3000.00,Email,younger_demographic,SPRINGBREAK,10.00,percent,100.00,Beachwear,3275,18900,125,8750.00,191.67
+MC008,April Fools Flash Sale,2022-04-01,2022-04-02,1000.00,Social_Media,all_customers,APRILFOOL,10.00,percent,0.00,Accessories,1950,11200,65,2600.00,160.00
+MC009,Easter Weekend,2022-04-10,2022-04-18,2800.00,Email,family_demographic,EASTER21,10.00,percent,75.00,all,3170,17500,135,9450.00,237.50
+MC010,Spring Essentials,2022-04-20,2022-04-30,2200.00,Social_Media,previous_buyers,SPRING21,10.00,percent,50.00,Accessories,2580,15300,105,5250.00,138.64
+MC011,May Day Sale,2022-05-01,2022-05-08,2000.00,Email,all_customers,MAY21SALE,10.00,percent,100.00,Paddleboards,2420,14800,95,8550.00,327.50
+MC012,Memorial Day Weekend,2022-05-25,2022-05-31,3500.00,Social_Media,all_customers,MEMORIAL21,10.00,percent,50.00,all,3850,21200,175,10500.00,200.00
+MC013,May Closeout,2022-05-20,2022-05-24,1200.00,Email,previous_buyers,MAYSALE,10.00,percent,0.00,Surfboards,1850,10500,70,4900.00,308.33
+MC014,Summer Kickoff,2022-06-01,2022-06-15,5000.00,Social_Media,all_customers,SUMMER21,10.00,percent,50.00,all,4575,26800,230,16100.00,222.00
+MC015,June Weekend Flash Sale,2022-06-10,2022-06-13,1500.00,Email,inactive_customers,JUNESAVE,10.00,percent,0.00,Wetsuits,2350,13200,85,5100.00,240.00
+MC016,End of June Clearance,2022-06-20,2022-06-30,2500.00,Social_Media,previous_buyers,JUNE21END,10.00,percent,0.00,Beachwear,2980,16700,120,6000.00,140.00
+MC017,Independence Day Sale,2022-07-01,2022-07-05,4000.00,Email,all_customers,JULY4TH,10.00,percent,50.00,all,4180,24500,205,14350.00,258.75
+MC018,Summer Essentials,2022-07-15,2022-07-22,2800.00,Social_Media,younger_demographic,JULYSALE,10.00,percent,0.00,Accessories,3050,17900,125,6250.00,123.21
+MC019,End of July Blowout,2022-07-25,2022-07-31,2200.00,Email,previous_buyers,JULYEND,10.00,percent,100.00,Surfboards,2780,16300,110,9900.00,350.00
+MC020,August Savings,2022-08-01,2022-08-10,2500.00,Social_Media,all_customers,AUG21SAVE,10.00,percent,50.00,Wetsuits,2840,16800,115,6900.00,176.00
+MC021,Back to School,2022-08-15,2022-08-25,3000.00,Email,family_demographic,BACKTOSCHOOL,10.00,percent,0.00,Beachwear,3190,18500,135,6750.00,125.00
+MC022,End of Summer Sale,2022-08-26,2022-08-31,2000.00,Social_Media,all_customers,SUMMEREND,10.00,percent,0.00,all,2630,15400,105,5250.00,162.50
+MC023,Labor Day Weekend,2022-09-02,2022-09-07,3500.00,Email,all_customers,LABORDAY21,10.00,percent,50.00,all,3720,21900,165,9900.00,182.86
+MC024,Fall Arrivals,2022-09-10,2022-09-20,3000.00,Social_Media,previous_buyers,FALLSALE,10.00,percent,0.00,Wetsuits,3240,19100,135,8100.00,170.00
+MC025,September Closeout,2022-09-21,2022-09-30,2200.00,Email,inactive_customers,SEPT21END,10.00,percent,0.00,Surfboards,2860,16800,115,6900.00,213.64
+MC026,October Deals,2022-10-01,2022-10-10,2500.00,Social_Media,all_customers,OCTOBERSAVE,10.00,percent,0.00,Accessories,2920,17200,120,6000.00,140.00
+MC027,Fall Season Kickoff,2022-10-11,2022-10-20,3200.00,Email,previous_buyers,FALL21SALE,10.00,percent,50.00,Wetsuits,3450,20300,150,9000.00,181.25 
