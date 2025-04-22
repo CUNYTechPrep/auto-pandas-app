@@ -129,6 +129,9 @@ celerybeat.pid
 
 # Environments
 .env
+.env.local
+.env.development
+.env.production
 .venv
 env/
 venv/
@@ -172,3 +175,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
